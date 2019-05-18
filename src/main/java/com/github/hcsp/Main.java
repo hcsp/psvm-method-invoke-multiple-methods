@@ -7,21 +7,21 @@ public class Main {
     }
 
     public static void a() {
+        System.out.println("a");
         // invoke method b() here
         // 在这里调用方法b()
-        System.out.println("a");
     }
 
     public static void b() {
+        System.out.println("b");
         // invoke method c() here
         // 在这里调用方法c()
-        System.out.println("b");
     }
 
     public static void c() {
+        System.out.println("c");
         // invoke method d() here
         // 在这里调用方法d()
-        System.out.println("c");
     }
 
     public static void d() {
