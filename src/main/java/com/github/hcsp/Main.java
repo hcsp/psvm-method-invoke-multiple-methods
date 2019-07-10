@@ -2,25 +2,29 @@ package com.github.hcsp;
 
 public class Main {
     public static void main(String[] args) {
-        a();
+        Main x=new Main();
+        x.a();
         // invoke method a() here
         // 在这里调用方法a()
     }
 
     public static void a() {
-        b();
+        Main x=new Main();
+        x.b();
         // invoke method b() here
         // 在这里调用方法b()
     }
 
     public static void b() {
-        c();
+        Main x=new Main();
+        x.c();
         // invoke method c() here
         // 在这里调用方法c()
     }
 
     public static void c() {
-        d();
+        Main x=new Main();
+        x.d();
         // invoke method d() here
         // 在这里调用方法d()
     }
