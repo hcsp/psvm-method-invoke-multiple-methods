@@ -9,22 +9,22 @@ public class Main {
     }
 
     public static void a() {
-        Main x=new Main();
-        x.b();
+
+        b();
         // invoke method b() here
         // 在这里调用方法b()
     }
 
     public static void b() {
-        Main x=new Main();
-        x.c();
+
+        c();
         // invoke method c() here
         // 在这里调用方法c()
     }
 
     public static void c() {
-        Main x=new Main();
-        x.d();
+
+        d();
         // invoke method d() here
         // 在这里调用方法d()
     }
