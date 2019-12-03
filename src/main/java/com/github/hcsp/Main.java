@@ -3,25 +3,25 @@ package com.github.hcsp;
 public class Main {
     public static void main(String[] args) {
         // invoke method a() here
-        a();
+        // 在这里调用方法a()
     }
 
     public static void a() {
         System.out.println("a");
         // invoke method b() here
-        b();
+        // 在这里调用方法b()
     }
 
     public static void b() {
         System.out.println("b");
         // invoke method c() here
-        c();
+        // 在这里调用方法c()
     }
 
     public static void c() {
         System.out.println("c");
         // invoke method d() here
-        d();
+        // 在这里调用方法d()
     }
 
     public static void d() {
