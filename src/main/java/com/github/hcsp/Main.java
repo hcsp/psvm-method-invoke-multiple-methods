@@ -29,6 +29,6 @@ public class Main {
     }
 
     public static void d() {
-        System.out.println("php天下第一");
+        System.out.println("d");
     }
 }
