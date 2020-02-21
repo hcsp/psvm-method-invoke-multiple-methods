@@ -1,27 +1,36 @@
 package com.github.hcsp;
 
 public class Main {
+
     public static void main(String[] args) {
+        a();
         // invoke method a() here
         // 在这里调用方法a()
+
     }
 
     public static void a() {
+        b();
         System.out.println("a");
         // invoke method b() here
         // 在这里调用方法b()
+
     }
 
     public static void b() {
+        c();
         System.out.println("b");
         // invoke method c() here
         // 在这里调用方法c()
+
     }
 
     public static void c() {
+        d();
         System.out.println("c");
         // invoke method d() here
         // 在这里调用方法d()
+
     }
 
     public static void d() {
