@@ -10,27 +10,30 @@ public class Main {
     }
 
     public static void a() {
-        b();
+
         System.out.println("a");
         // invoke method b() here
         // 在这里调用方法b()
 
+        b();
     }
 
     public static void b() {
-        c();
+
         System.out.println("b");
         // invoke method c() here
         // 在这里调用方法c()
+        c();
 
     }
 
     public static void c() {
-        d();
+
         System.out.println("c");
         // invoke method d() here
         // 在这里调用方法d()
 
+        d();
     }
 
     public static void d() {
