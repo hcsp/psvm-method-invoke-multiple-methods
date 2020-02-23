@@ -4,6 +4,10 @@ public class Main {
     public static void main(String[] args) {
         // invoke method a() here
         // 在这里调用方法a()
+        a();
+        b();
+        c();
+        d();
     }
 
     public static void a() {
