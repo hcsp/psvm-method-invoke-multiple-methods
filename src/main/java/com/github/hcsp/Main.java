@@ -25,7 +25,7 @@ public class Main {
         System.out.println("c");
         // invoke method d() here
         // 在这里调用方法d()
-        c();
+        d();
     }
 
     public static void d() {
